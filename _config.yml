@@ -1,17 +1,17 @@
 # Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://heiswayi.github.io/thinkspace # site url
+title_left    : "Ayuwelirang"
+title_right   : ".com" # default: ""
+description   : "A personal blog of Ayu Welirang, a crime fiction writer from Indonesia."
+keywords      : "author, novelist, indonesian crime fiction writer, penulis perempuan, mata pena, 7 divisi, ayu welirang"
+url           : https://ayuwelirang.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
-twitter_username  : ""
-comments_enabled  : false # if enabled (set to true), please provide your disqus_username
-disqus_shortname  : ""
-postshare_enabled : false
+twitter_username  : "ayuwelirang"
+comments_enabled  : true # if enabled (set to true), please provide your disqus_username
+disqus_shortname  : "ayuwelirang"
+postshare_enabled : true
 
 # Build settings
 permalink   : /:year/:title/
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Ayu Welirang"
 
 plugins:
   - jekyll-sitemap
@@ -39,6 +39,8 @@ plugins:
 navbar:
   - slug : about
     title: About
+  - slug : books
+    title: Books
   - slug : blog
     title: Blog
 
