@@ -1,8 +1,7 @@
 // Typography
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
-$base-font-family: 'Lato', 'Roboto', 'Montserrat', sans-serif;
+$base-font-family: 'Lato', 'Montserrat', sans-serif;
 $heading-font-family: $base-font-family;
 
 // Font Sizes
@@ -27,6 +26,7 @@ $blue-color: #0086B3;
 $dark-gray-color: #333;
 $medium-gray-color: #999;
 $light-gray-color: #ccc;
+$pinky-wow: #eb6383;
 
 // Font Colors
 $base-font-color: rgba($dark-gray-color, .8);
