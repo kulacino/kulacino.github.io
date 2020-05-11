@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 {% include intro.html %}
 
 <section class="post-list">
@@ -23,20 +25,6 @@ title: Home
       </article>
     {% endfor %}
   </div>
-
-  <!-- Pagination links to organize blogposts -->
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-    {% else %}
-      <span class="previous">Previous</span>
-    {% endif %}
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-    {% else %}
-      <span class="next ">Next</span>
-    {% endif %}
-  </div>
-
 </section>
+
+{% include pagination.html %}

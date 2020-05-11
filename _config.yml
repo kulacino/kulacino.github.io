@@ -3,7 +3,7 @@ title_left    : "Ayuwelirang"
 title_right   : ".com" # default: ""
 description   : "A personal blog of Ayu Welirang, a crime fiction writer from Indonesia."
 keywords      : "author, novelist, indonesian crime fiction writer, penulis perempuan, mata pena, 7 divisi, ayu welirang"
-url           : https://ayuwelirang.com # site url
+url           : https://www.ayuwelirang.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
