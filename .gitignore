@@ -1,6 +1,7 @@
 _site/
 .sass-cache/
 .bundle/
+.git
 Gemfile.lock
 
 # Windows image file caches
