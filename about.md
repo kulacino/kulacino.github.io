@@ -13,3 +13,8 @@ She published her collection of poems independently, titled **Abstraksi Imaji** 
 In March 2014, her first novel, an adventure novel entitled [7 Divisi](https://ayuwelirang.com/2014/7-divisi-grasindo-publisher/) was published by Grasindo Publisher. Her second novel, [Halo, Tifa](http://ayuwelirang.com/2016/halo-tifa/) was published around 2016 by Gramedia Pustaka Utama. Her first black-comedy anthology, [Rumah Kremasi](http://ayuwelirang.com/2018/rumah-kremasi/) was published by Maneno Books. Her latest book is a crime investigation novel, [Mata Pena](http://ayuwelirang.com/2020/mata-pena/), a story about young journalist who pursues the truth behind a murder case.
 
 In addition to fiction, she also writes some light essays about music, books, and movie reviews. Some of these essays are published in Kompasiana, Bandung Music web portal, and also an independent medisa such as Jakartabeat.Net, Metaruang.com, and [Serunai.co](https://serunai.co).
+
+Talk to her using below **contact**:
+- :e-mail: [halo(at)ayuwelirang(dot)com](halo@ayuwelirang.com)
+- twitter [@ayuwelirang](https://twitter.com/ayuwelirang)
+- facebook [Ayu Welirang](https://facebook.com/ayuwelirang)
