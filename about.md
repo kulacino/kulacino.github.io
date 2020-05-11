@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <img src="/assets/images/ayu-welirang.jpg" width="200" height="auto">
 
@@ -14,7 +15,7 @@ In March 2014, her first novel, an adventure novel entitled [7 Divisi](https://a
 
 In addition to fiction, she also writes some light essays about music, books, and movie reviews. Some of these essays are published in Kompasiana, Bandung Music web portal, and also an independent medisa such as Jakartabeat.Net, Metaruang.com, and [Serunai.co](https://serunai.co).
 
-Talk to her using below **contact**:
-- :e-mail: [halo(at)ayuwelirang(dot)com](halo@ayuwelirang.com)
-- twitter [@ayuwelirang](https://twitter.com/ayuwelirang)
-- facebook [Ayu Welirang](https://facebook.com/ayuwelirang)
+Talk to her using below _**contact**_:
+- <i class="fa fa-envelope" aria-hidden="true" style="color:#d9455f;"></i> [halo(at)ayuwelirang(dot)com](mailto:halo@ayuwelirang.com)
+- <i class="fa fa-twitter" aria-hidden="true" style="color:#d9455f;"></i> [@ayuwelirang](https://twitter.com/ayuwelirang)
+- <i class="fa fa-facebook" aria-hidden="true" style="color:#d9455f;"></i> [Ayu Welirang](https://facebook.com/ayuwelirang)
