@@ -1,3 +1,3 @@
 # kulacino.github.io with Thinkspace themes.
 
-AyuWelirang's Blog hosted under Github Pages.
+Ayu Welirang's Blog hosted under Github Pages.
