@@ -5,7 +5,7 @@ description   : "A personal blog of Ayu Welirang, a crime fiction writer from In
 keywords      : "author, novelist, indonesian crime fiction writer, penulis perempuan, mata pena, 7 divisi, ayu welirang"
 url           : https://www.ayuwelirang.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "/assets/images/ayu-welirang.jpg" # image uri like logo/cover image for site seo
+cover         : "/assets/images/ayuwelirang-com.png" # image uri like logo/cover image for site seo
 
 google_analytics  : G-HWZRRL35TH
 twitter_username  : "ayuwelirang"
@@ -22,6 +22,7 @@ disqus:
 
 # Build settings
 permalink   : /:year/:title/
+#permalink   : /:categories/:title/ # for categories
 markdown    : kramdown
 highlighter : rouge
 
