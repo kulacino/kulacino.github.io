@@ -3,7 +3,8 @@ layout: post
 title: 'Welcoming Jekyll, Goodbye Blogspot!'
 date: '2020-05-07T14:40:00.003+07:00'
 author: Ayu Welirang
-category: Tech
+comments: true
+tags: Tech
 modified_time: '2020-05-11T20:18+07:00'
 thumbnail: '/assets/images/posts/welcoming-jekyll.jpg'
 ---

@@ -12,6 +12,9 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
     {% include post-share.html %}
+    {% include relatedpost.html %}
+  </div>
+  <div class="post-content" itemprop="articleComment">
     {% include comments.html %}
   </div>
 </article>

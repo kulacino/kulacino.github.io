@@ -208,7 +208,9 @@ hr {
 .share {
   border-top: 0.2em dashed lighten($light-gray-color, 13%);
   padding-top: $base-spacing;
+  padding-bottom: $base-spacing;
   margin-top: $base-spacing * 2;
+  margin-bottom: $base-spacing * 2;
 
   p {
     margin: 0 5em;
@@ -290,6 +292,36 @@ figcaption {
 }
 figure {
     padding: 5px;
+}
+
+div .reltitle {
+    text-align: center;
+    font-family: $base-font-family;
+    padding: 10px;
+}
+
+.rect {
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+    padding-top: 15px;
+    margin:0 auto;
+    text-align: center;
+}
+
+.rel {
+    width: 185px;
+    display: inline-block;
+    padding: 5px;
+    opacity: 0.8;
+
+    .relasijudul {
+      text-align: center;
+      vertical-align: top;
+    }
+}
+
+.rel hover {
+     opacity: 1;
 }
 
 // This applies from 0px to 600px
