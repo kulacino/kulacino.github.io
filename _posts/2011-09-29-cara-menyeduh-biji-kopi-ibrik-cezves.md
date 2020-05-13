@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Cara Menyeduh Biji Kopi: Ibrik (Cezves atau Briki)'
+description: 'Cara menyeduh kopi dengan teko ibrik, menyeduh kopi Turki, cara menyeduh kopi enak.'
 date: '2011-09-29T12:26:00.000+07:00'
 author: Ayu Welirang
 tags: Coffee

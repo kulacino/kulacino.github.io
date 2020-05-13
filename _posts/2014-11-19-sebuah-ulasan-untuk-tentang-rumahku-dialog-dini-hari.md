@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Sebuah Ulasan Personal Untuk Album Dialog Dini Hari - Tentang Rumahku (2014)
+description: 'Ulasan album Dialog Dini Hari, Tentang Rumahku Dialog Dini Hari, ulasan album Tentang Rumahku oleh Ayu Welirang, ulasan album musik, ulasan band DDH, DDH Bali'
 date: '2014-11-19T21:43:00.001+07:00'
 author: Ayu Welirang
+comments: True
 tags: [Music, Review]
 modified_time: '2017-12-06T23:11:38.906+07:00'
 thumbnail: http://1.bp.blogspot.com/-1M-Zp0j4Xfk/VGyqxsqlK5I/AAAAAAAAENc/hg5cEtAf_Vw/s72-c/ddh%2B-%2Bhome.jpg

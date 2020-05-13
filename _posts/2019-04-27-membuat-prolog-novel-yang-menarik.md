@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Membuat Prolog Novel yang "Ngehook"
+description: 'cara membuat prolog novel, cara menulis prolog novel, cara menulis pembukaan novel, cara menulis novel'
 date: '2019-04-27T21:48:00.000+07:00'
 author: Ayu Welirang
 comments: True

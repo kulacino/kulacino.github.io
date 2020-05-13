@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "(Intermezzo) Penokohan Tujuh Divisi"
+description: 'Novel 7 Divisi oleh Ayu Welirang, terbit di Grasindo Publisher.'
 date: '2012-01-06T14:20:00.001+07:00'
 author: Ayu Welirang
 tags: [My Works, Fiction, Writing]

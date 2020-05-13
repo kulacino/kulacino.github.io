@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Cara Menyeduh Biji Kopi: French Press (atau Bodum)'
+description: 'Cara menyeduh kopi dengan french press, press, menyeduh kopi saring, cara menyeduh kopi enak.'
 date: '2011-10-14T16:15:00.000+07:00'
 author: Ayu Welirang
 tags: Coffee
