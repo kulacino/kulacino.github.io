@@ -7,12 +7,17 @@ author: Ayu Welirang
 comments: true
 tags: [Interview, Opinion, Writing]
 modified_time: '2020-05-11T20:18+07:00'
-thumbnail: '/assets/images/posts/diskusi-miguelangelo-ayuwelirang-wahyuzae.jpg'
+thumbnail: '/assets/images/posts/ihwal-pembajakan-buku-dan-haki.png'
 ---
+
+<figure class="imgthumb">
+<img src="/assets/images/posts/ihwal-pembajakan-buku-dan-haki.png" width="500" height="auto" />
+<figcaption>Ayubacabaca Episode 5 - Tentang Pembajakan</figcaption>
+</figure>
 
 Halo!
 
-Mohon maaf sebelumnya, sebab [**Podcast Ayubacabaca Episode 5 - Diskusi Perihal Pembajakan Karya dan Hak atas Kekayaan Intelektual Bersama Miguel Angelo Jonathan dan Wahyu Zae**](https://anchor.fm/ayuwelirang), mengalami sedikit kendala karena sinyal internet di desa tempat saya bermukim tengah naik dan turun. Oleh karenanya, saya coba menghadirkan transkrip (yang telah dirangkum sedemikian rupa) agar memudahkan teman-teman sembari mendengarkan *podcast* saya.
+Mohon maaf sebelumnya, sebab [**Podcast Ayubacabaca Episode 5 - Satu Jam Membahas Fenomena Pembajakan Buku**](https://anchor.fm/ayuwelirang/episodes/EP05---Satu-Jam-Membahas-Fenomena-Pembajakan-Buku-dan-Hak-atas-Kekayaan-Intelektual-ee3so0), mengalami sedikit kendala karena sinyal internet di desa tempat saya bermukim tengah naik dan turun. Oleh karenanya, saya coba menghadirkan transkrip (yang telah dirangkum sedemikian rupa) agar memudahkan teman-teman sembari mendengarkan *podcast* saya.
 
 Simak beberapa pernyataan menarik yang saya bahas malam ini, bersama dua narasumber, [Wahyu Zae](https://instagram.com/wahyuzae) dan [Miguel Angelo Jonathan](https://miguelangelojonathan.wordpress.com/).
 
@@ -105,4 +110,6 @@ _**Post scriptum**_
 - Miguel menambahkan tentang salah satu praktik pungli yang terjadi saat sebuah penerbitan hendak melakukan pengaduan terkait pembajakan buku-bukunya. Rupanya, praktik pungli ini kerap terjadi, semacam pemutus birokrasi dalam rangka pengaduan gugatan pelanggaran hak cipta. Namun, setelah dihitung-hitung, jumlah biayanya lebih besar daripada biaya cetak buku. Jadi, ya lebih baik mencetak lagi saja toh? Lupakan saja proses pengaduan itu.
 - Wahyu Zae menambahkan soal fenomena **kubu** yang ada pada para penulis. Penulis _yoi_ dan yang dianggap _tidak yoi_. Hal ini nyata terjadi, padahal gagasan yang disampaikan penulis _tidak yoi_ seharusnya didukung saja, toh itu bukan gagasan buruk dan malah melindungi kerja-kerja kreator. Tapi ya itu tadi. Adanya perasaan lebih unggul daripada yang lain, menutup nurani akan gagasan yang lebih penting.
 
-_**Dengarkan Podcastnya [di sini](https://anchor.fm/ayuwelirang).**_
+_**Dengarkan Podcastnya di bawah ini:**_
+
+<iframe src="https://anchor.fm/ayuwelirang/embed/episodes/EP05---Satu-Jam-Membahas-Fenomena-Pembajakan-Buku-dan-Hak-atas-Kekayaan-Intelektual-ee3so0" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
