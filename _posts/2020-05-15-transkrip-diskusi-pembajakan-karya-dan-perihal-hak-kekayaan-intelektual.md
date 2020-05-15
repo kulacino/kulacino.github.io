@@ -108,7 +108,7 @@ _**Post scriptum**_
 
 - Saya, gue, Ayu, suka konsep penerbit independen, karena pakai sistem kolektif. Penerbit, penulis, semua pihak saling bersinergi untuk sama-sama mengangkat sebuah karya sampai matang dan terbit, walau tidak begitu kuat dari segi kapital.
 - Miguel menambahkan tentang salah satu praktik pungli yang terjadi saat sebuah penerbitan hendak melakukan pengaduan terkait pembajakan buku-bukunya. Rupanya, praktik pungli ini kerap terjadi, semacam pemutus birokrasi dalam rangka pengaduan gugatan pelanggaran hak cipta. Namun, setelah dihitung-hitung, jumlah biayanya lebih besar daripada biaya cetak buku. Jadi, ya lebih baik mencetak lagi saja toh? Lupakan saja proses pengaduan itu.
-- Wahyu Zae menambahkan soal fenomena **kubu** yang ada pada para penulis. Penulis _yoi_ dan yang dianggap _tidak yoi_. Hal ini nyata terjadi, padahal gagasan yang disampaikan penulis _tidak yoi_ seharusnya didukung saja, toh itu bukan gagasan buruk dan malah melindungi kerja-kerja kreator. Tapi ya itu tadi. Adanya perasaan lebih unggul daripada yang lain, menutup nurani akan gagasan yang lebih penting.
+- Wahyu Zae menambahkan soal fenomena **kubu** yang ada pada para penulis. Penulis kubu X dan kubu Y. Hal ini nyata terjadi, padahal gagasan yang disampaikan penulis kubu X seharusnya didukung saja, toh itu bukan gagasan buruk dan malah melindungi kerja-kerja kreator. Tapi ya itu tadi. Adanya perasaan lebih unggul daripada yang lain, menutup nurani akan gagasan yang lebih penting.
 
 _**Dengarkan Podcastnya di bawah ini:**_
 
