@@ -5,7 +5,7 @@ description: 'cara membuat prolog novel, cara menulis prolog novel, cara menulis
 date: '2019-04-27T21:48:00.000+07:00'
 author: Ayu Welirang
 comments: True
-tags: Writing
+tags: [Tips, Writing]
 modified_time: '2020-02-12T22:37:08.619+07:00'
 thumbnail: https://1.bp.blogspot.com/-U3NZsVspLzk/XkQSNc68WLI/AAAAAAAAGMQ/m5r8GCH3WWEXV9CqR3Wf_L5k9gZf3heIQCLcBGAsYHQ/s72-c/tips-membuat-prolog-novel-ayuwelirang.png
 blogger_id: tag:blogger.com,1999:blog-2864133486354662221.post-2221764675955774933

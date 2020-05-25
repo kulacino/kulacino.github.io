@@ -5,7 +5,7 @@ description: Tajima Miss Mitford translation by Ayu Welirang. Terjemahan Tajima 
 date: '2020-02-14T01:21:00.001+07:00'
 author: Ayu Welirang
 comments: True
-tags: Translation
+tags: [Short Story, Translation]
 modified_time: '2020-02-14T01:31:20.064+07:00'
 blogger_id: tag:blogger.com,1999:blog-2864133486354662221.post-4560233916494081948
 blogger_orig_url: http://www.ayuwelirang.com/2020/02/tajima-oleh-miss-mitford-terjemahan.html

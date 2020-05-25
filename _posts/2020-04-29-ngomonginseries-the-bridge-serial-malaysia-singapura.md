@@ -5,7 +5,7 @@ title: "#NgomonginSeries: The Bridge, Serial Investigasi dengan Jembatan Antar D
 date: '2020-04-29T05:04:00.000+07:00'
 author: Ayu Welirang
 comments: True
-tags: [Review, On Crime, Series]
+tags: [On Crime, Review, Series]
 modified_time: '2020-05-07T16:16:27.006+07:00'
 thumbnail: https://i.ytimg.com/vi/gGESoQN7q74/default.jpg
 blogger_id: tag:blogger.com,1999:blog-2864133486354662221.post-3956989848989585378

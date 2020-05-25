@@ -4,7 +4,7 @@ title: 'Catatan Editing Antologi Detectives ID 2: Historical Mystery'
 date: '2020-05-07T14:40:00.003+07:00'
 author: Ayu Welirang
 comments: true
-tags: [Writing, My Works]
+tags: [My Works, Writing]
 modified_time: '2020-05-07T14:40:58.862+07:00'
 thumbnail: https://1.bp.blogspot.com/-W8X_sQ_dGLQ/XrO7OhD5CZI/AAAAAAAAGVs/1Fg_jKjHwo4DBPJwQ-p9sZJmr-JgaBtTwCLcBGAsYHQ/s72-c/catatan-editing-antologi-detectives-id-ayuwelirang.png
 ---

@@ -5,7 +5,7 @@ description: 'Event Wayang Kampung Sebelah di UIN Syarif Hidayatullah Jakarta'
 date: '2012-01-14T18:33:00.001+07:00'
 author: Ayu Welirang
 comments: True
-tags: Review
+tags: [Event, On Arts, Review]
 modified_time: '2014-04-09T23:12:10.339+07:00'
 thumbnail: http://1.bp.blogspot.com/-gcINoA5CBpk/TxFjAiUFtfI/AAAAAAAABJo/PH7yb6v3AmM/s72-c/P1140098.JPG
 blogger_id: tag:blogger.com,1999:blog-2864133486354662221.post-1261668022476551515

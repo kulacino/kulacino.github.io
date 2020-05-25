@@ -5,7 +5,7 @@ description: 'Ulasan novel Canting oleh Arswendo Atmowiloto. Novel Canting Arswe
 date: '2012-02-15T01:22:00.001+07:00'
 author: Ayu Welirang
 comments: True
-tags: [Review, Reading]
+tags: [Reading, Review]
 modified_time: '2017-12-06T23:02:37.745+07:00'
 thumbnail: https://4.bp.blogspot.com/-FH4GTc7AMHk/TzqjesF7F_I/AAAAAAAABOI/EYYW3gLVP2M/s72-c/P2150063.JPG
 blogger_id: tag:blogger.com,1999:blog-2864133486354662221.post-6440145213198443574

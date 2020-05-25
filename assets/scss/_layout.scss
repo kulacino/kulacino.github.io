@@ -279,6 +279,11 @@ img[src*="#book"] {
    height:auto;
 }
 
+.site-tag a {
+    display: inline-block;
+    margin-right: 12px;
+}
+
 i.fa-tags {
     margin-left: 5px;
 }

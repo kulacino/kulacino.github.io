@@ -5,7 +5,7 @@ description: 'tips membuat judul novel, cara membuat judul novel keren, cara men
 date: '2020-04-15T17:37:00.003+07:00'
 author: Ayu Welirang
 comments: True
-tags: [Writing, Tips]
+tags: [Tips, Writing]
 modified_time: '2020-04-15T17:37:44.340+07:00'
 thumbnail: https://1.bp.blogspot.com/-e8fxJT9-YKY/XpbjnL_ZCDI/AAAAAAAAGQg/6laSNoSwIUQ_fZIoZLtAv9OR86ZnLRbqACLcBGAsYHQ/s72-c/tips-membuat-judul-novel-ayuwelirang.jpg
 blogger_id: tag:blogger.com,1999:blog-2864133486354662221.post-6653530937121710269

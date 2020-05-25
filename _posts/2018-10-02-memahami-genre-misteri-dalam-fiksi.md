@@ -5,7 +5,7 @@ description: 'membedakan genre misteri dengan thriller, genre misteri dan thrill
 date: '2018-10-02T21:34:00.000+07:00'
 author: Ayu Welirang
 comments: True
-tags: [Writing, Tips, On Crime]
+tags: [On Crime, Tips, Writing]
 modified_time: '2020-02-12T22:37:47.470+07:00'
 thumbnail: https://1.bp.blogspot.com/-4qcYOzW4HNI/XkQOK0I3jFI/AAAAAAAAGME/s3-Pjco23cQiwEHk_0J04HpeeOfSyaQSgCLcBGAsYHQ/s72-c/beda-genre-thriller-dan-detektif.jpg
 blogger_id: tag:blogger.com,1999:blog-2864133486354662221.post-4427948531603618346
