@@ -3,6 +3,7 @@ layout: post
 title: Malam Tuan
 date: '2014-06-24T10:00:00.004+07:00'
 author: Ayu Welirang
+comments: True
 tags: Fiction
 modified_time: '2014-06-24T10:00:47.748+07:00'
 ---

@@ -5,6 +5,7 @@ description: 'Cara menyeduh kopi dengan french press, press, menyeduh kopi sarin
 date: '2011-10-14T16:15:00.000+07:00'
 author: Ayu Welirang
 tags: Coffee
+comments: True
 modified_time: '2014-07-15T02:11:10.006+07:00'
 thumbnail: http://3.bp.blogspot.com/-3POmTjCc3QA/Tpf84uzLh0I/AAAAAAAAAo0/ifO58ypUe3U/s72-c/250px-Frenchpress-wiki.jpg
 ---

@@ -5,6 +5,7 @@ description: 'Cara menyeduh kopi dengan teko ibrik, menyeduh kopi Turki, cara me
 date: '2011-09-29T12:26:00.000+07:00'
 author: Ayu Welirang
 tags: Coffee
+comments: True
 modified_time: '2014-07-15T02:11:44.070+07:00'
 thumbnail: http://4.bp.blogspot.com/-wQZAnscWrGk/ToQAzZ11TFI/AAAAAAAAAjE/9-sYDRhtXQw/s72-c/turkish_coffee_set_br_tu.jpg
 ---
