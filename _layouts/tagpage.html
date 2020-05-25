@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article class="page container">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <header class="page-header">
+    <h1 class="page-title">Tag: {{ page.tag }}</h1>
+  </header>
+  <div class="page-content">
+    <ul>
+    {% for post in site.tags[page.tag] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+        {{ post.description }}
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+  {% include archives.html %}
+</article>

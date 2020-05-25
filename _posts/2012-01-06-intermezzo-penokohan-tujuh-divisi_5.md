@@ -4,7 +4,7 @@ title: "(Intermezzo) Penokohan Tujuh Divisi"
 description: 'Novel 7 Divisi oleh Ayu Welirang, terbit di Grasindo Publisher.'
 date: '2012-01-06T14:20:00.001+07:00'
 author: Ayu Welirang
-tags: [Fiction, My Works, Writing]
+tags: [Personal]
 modified_time: '2017-02-20T13:43:54.786+07:00'
 thumbnail: https://1.bp.blogspot.com/-_L3H9NHI-ac/TwaAHfXBfbI/AAAAAAAABHM/gNRJm9AA_ZU/s72-c/1.+Goth+as+Ichan.jpg
 ---

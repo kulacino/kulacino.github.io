@@ -4,7 +4,7 @@ title: Rumah Kremasi
 date: '2018-10-12T17:45:00.000+07:00'
 author: Ayu Welirang
 comments: True
-tags: My Works
+tags: MyWorks
 modified_time: '2020-04-15T18:00:12.055+07:00'
 thumbnail: https://1.bp.blogspot.com/-P8dXQLbjr2o/XkQdPb7LxuI/AAAAAAAAGMg/SMJQd-6q-L0sTCHCf_o3GSjMheiGEf11wCPcBGAYYCw/s72-c/rumah-kremasi-ayu.jpg
 blogger_id: tag:blogger.com,1999:blog-2864133486354662221.post-8172914688948196930
