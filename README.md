@@ -1,2 +1,2 @@
-# ayucynthia.github.io
+# kulacino.github.io
 CA Windani academic portfolios.
