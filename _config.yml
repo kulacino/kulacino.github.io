@@ -1,7 +1,7 @@
 # Basic Information 
 title: Cynthia Ayu Windani
 position: Criminology Researcher
-affiliation: Independent
+affiliation: Independent Researcher
 email: ayucynthia (at) mail.edu
 
 # Search Engine Optimization (SEO)
@@ -19,8 +19,8 @@ github_link: https://github.com/kulacino
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/profile-spiral.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/favicon-caw.png
+favicon_dark: ./assets/img/favicon-caw.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
