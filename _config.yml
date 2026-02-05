@@ -2,4 +2,4 @@ title: CA Windani | Home
 description: CA Windani's academic portfolios.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-dinky
+remote_theme: yaoyao-liu/minimal-light
