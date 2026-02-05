@@ -11,5 +11,5 @@
 <h4 style="margin:0 10px 0;">Expert Opinions</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.indozone.id/liputan-khusus/2486493206/dari-konflik-keluarga-menjadi-filisida-mengurai-kasus-kematian-alvaro"><autocolor>Opinions on domestic violence leading to filicide from a criminological perspective. The case occurred in Indonesia. (Indozone Media)</autocolor></a></li>
+  <li><a href="https://www.indozone.id/liputan-khusus/2486493206/dari-konflik-keluarga-menjadi-filisida-mengurai-kasus-kematian-alvaro"><autocolor>Opinions on domestic violence leading to filicide from a criminological perspective. The case occurred in Indonesia. Indozone Media, 2025</autocolor></a></li>
 </ul>
