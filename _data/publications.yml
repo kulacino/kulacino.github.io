@@ -1,22 +1,29 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Manajemen Operasional Keamanan dan Ketertiban Lembaga Pemasyarakatan Berdasarkan Studi Kasus di Lapas "X" (Operational Management of Security and Order in Correctional Institutions Based on a Case Study at Prison “X”)
+    authors: <strong>CA Windani*</strong>, R Tandyasraya (*Corresponding authors)
+    conference_short: JIKH
+    conference: Jurnal Ilmiah Kebijakan Hukum <strong>(JIKH)</strong> Balitbangkumham, 2024.
+    pdf: https://ejournal.balitbangham.go.id/index.php/kebijakan/article/view/4318/pdf
+    notes: Peer Reviewed
+    image: ./assets/img/2024pub_windani_opslapas.png
+    
+  - title: Strategi dan Tantangan Predictive Policing di Era Big Data bagi Masyarakat Modern (Strategies and Challenges of Predictive Policing in the Big Data Era for Modern Society)
+    authors: <strong>CA Windani</strong>
+    conference_short: Deviance
+    conference: Deviance Jurnal Kriminologi, 2023.
+    pdf: https://journal.budiluhur.ac.id/deviance/article/viewFile/2385/1493
+    notes: Peer Reviewed
+    image: ./assets/img/2023pub_windani_predictivepolicing.png
+  
+  - title: Dilema Sosial Akibat Aktivitas Tambang Galian C di Kabupaten Bogor Berdasarkan Perspektif Kejahatan Lingkungan (Social Dilemma Due to Mining C-Type Activities in Bogor Regency Based on Environmental Crime Perspective)
+    authors: <strong>CA Windani*</strong>, J Rezeki, AD Adhitya, SD Pratama (*Corresponding authors)
+    conference_short: PKNS
+    conference: Prosiding Konferensi Nasional Sosiologi <strong>(PKNS)</strong>, 2023.
+    pdf: https://pkns.portalapssi.id/index.php/pkns/article/view/118/115
+    image: ./assets/img/2023pub_windani_tambangC.png
+    notes: Early Accept and Oral Presentation
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  
+
+  
