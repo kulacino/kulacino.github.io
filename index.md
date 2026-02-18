@@ -11,13 +11,14 @@ PhD focused on global governance and public policy development in the socio-tech
 
 ## Research Interests
 
-- **Criminology:** sociology of law, critical criminology, border criminology, transnational crime, cyber crime
+- **Criminology:** sociology of law, critical criminology, border criminology, transnational crime, cyber crime, zemiology
 - **Digital Transformation and Society:** digital governance, AI ethics, data sovereignty, privacy, and data protection rights
 - **Policy Studies:** policing policies, cybersecurity policy, AI regulatory framework, social policy, and crime prevention
 
 ## Working Paper
 
-- **[Jan. 2026]** Will be updated.
+- **[Feb. 2026]** Assessing State-Induced Harm in Decile Reclassification: A Case Study of the Mass Deactivation of the National Health Insurance Recipients in Indonesia
+- **[Feb. 2026]** Aestheticized Surveillance: Spotify Wrapped, Social Harm, and the Limitations of Digital Platform Governance (co-authorship with [Aris Setyawan](https://scholar.google.com/citations?user=i3dGo6UAAAAJ))
 
 {% include_relative _includes/publications.md %}
 
